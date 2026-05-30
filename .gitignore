@@ -1,0 +1,15 @@
+.venv/
+antenv/
+__pycache__/
+*.db
+uploads/
+*.pyc
+.env
+.env.local
+*.PublishSettings
+*.publishsettings
+bandit-report.json
+pip-audit-report.json
+.claude/
+venv/
+venv
